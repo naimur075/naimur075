@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @naimur075. I am a Bsc student in
      Computer science and engineering. 
-    Currently I am learning Python.
+    Welcome to my github page. Feel free to interact 🤗
